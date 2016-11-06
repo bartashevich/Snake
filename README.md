@@ -7,4 +7,5 @@ Things to fix:
  - Change snake speed
 
 How to test Snake OS: https://github.com/bartashevich/Snake-OS/wiki/How-can-I-test-SnakeOS%3F
+
 Video: https://www.youtube.com/watch?v=lx_d9ynLClk
