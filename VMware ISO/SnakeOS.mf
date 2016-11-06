@@ -1,0 +1,3 @@
+SHA1(SnakeOS.ovf)= 53e9c93df9b47cd953928b13882d5817ef720057
+SHA1(SnakeOS-disk1.vmdk)= e5bec04c18ad56d0e1d1d69621e67aff260bf511
+SHA1(SnakeOS-file1.iso)= 66b818f4d5e9c033ace786fa604b81185418e4e4
