@@ -6,6 +6,6 @@ Things to fix:
  - Flicker effect
  - Change snake speed
 
-How to test Snake: https://github.com/bartashevich/Snake/wiki/How-can-I-test-Snake
+How to test Snake: https://github.com/bartashevich/Snake/wiki/How-can-I-test-Snake%3F
 
 Video: https://www.youtube.com/watch?v=lx_d9ynLClk
