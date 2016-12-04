@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake", "Snake\Snake.csproj", "{1403CE16-5D9F-4D0E-A50D-0C952861CDBA}"
+EndProject
+Project("{471EC4BB-E47E-4229-A789-D1F5F83B52D4}") = "SnakeBoot", "Snake\SnakeBoot.Cosmos", "{538125B1-86C2-4528-92C1-15C7363D806E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1403CE16-5D9F-4D0E-A50D-0C952861CDBA}.Debug|x86.ActiveCfg = Debug|x86
+		{1403CE16-5D9F-4D0E-A50D-0C952861CDBA}.Debug|x86.Build.0 = Debug|x86
+		{1403CE16-5D9F-4D0E-A50D-0C952861CDBA}.Release|x86.ActiveCfg = Release|x86
+		{1403CE16-5D9F-4D0E-A50D-0C952861CDBA}.Release|x86.Build.0 = Release|x86
+		{538125B1-86C2-4528-92C1-15C7363D806E}.Debug|x86.ActiveCfg = Debug|x86
+		{538125B1-86C2-4528-92C1-15C7363D806E}.Debug|x86.Build.0 = Debug|x86
+		{538125B1-86C2-4528-92C1-15C7363D806E}.Release|x86.ActiveCfg = Debug|x86
+		{538125B1-86C2-4528-92C1-15C7363D806E}.Release|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

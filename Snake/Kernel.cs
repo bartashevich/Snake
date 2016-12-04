@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Sys = Cosmos.System;
 
-namespace SnakeOS
+namespace Snake
 {
     public class Kernel : Sys.Kernel
     {
